@@ -1,0 +1,5 @@
+{
+  "name": "Thai Creator Thumbnail Studio",
+  "description": "เครื่องมือช่วยยูทูบเบอร์สร้างรูปภาพใบหน้าในอารมณ์ต่างๆ จากรูปอ้างอิงเพียงรูปเดียว เพื่อใช้สำหรับทำปกคลิป (Thumbnail) โดยใช้เทคโนโลยี AI จาก Gemini",
+  "requestFramePermissions": []
+}
